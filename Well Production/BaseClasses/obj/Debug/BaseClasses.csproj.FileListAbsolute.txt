@@ -1,0 +1,5 @@
+C:\Users\Owner\Dropbox\Vadim Deryabin\DOT_NET_Dev\CPRG253_final_project_ver2\BaseClasses\bin\Debug\BaseClasses.dll
+C:\Users\Owner\Dropbox\Vadim Deryabin\DOT_NET_Dev\CPRG253_final_project_ver2\BaseClasses\bin\Debug\BaseClasses.pdb
+C:\Users\Owner\Dropbox\Vadim Deryabin\DOT_NET_Dev\CPRG253_final_project_ver2\BaseClasses\obj\Debug\BaseClasses.dll
+C:\Users\Owner\Dropbox\Vadim Deryabin\DOT_NET_Dev\CPRG253_final_project_ver2\BaseClasses\obj\Debug\BaseClasses.pdb
+C:\Users\Owner\Dropbox\Vadim Deryabin\DOT_NET_Dev\CPRG253_final_project_ver2\BaseClasses\obj\Debug\BaseClasses.csprojResolveAssemblyReference.cache

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CPRG253_final_project_ver2", "CPRG253_final_project_ver2\CPRG253_final_project_ver2.csproj", "{A59BA9DC-AE2A-41B5-BDF2-69C7A9525A07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseClasses", "BaseClasses\BaseClasses.csproj", "{A5128D8B-D125-4379-B721-0FADC1AA2AE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseForms", "BaseForms\BaseForms.csproj", "{464C0226-2405-44A9-97E6-AE26B20EB4E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A59BA9DC-AE2A-41B5-BDF2-69C7A9525A07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A59BA9DC-AE2A-41B5-BDF2-69C7A9525A07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A59BA9DC-AE2A-41B5-BDF2-69C7A9525A07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A59BA9DC-AE2A-41B5-BDF2-69C7A9525A07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5128D8B-D125-4379-B721-0FADC1AA2AE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5128D8B-D125-4379-B721-0FADC1AA2AE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5128D8B-D125-4379-B721-0FADC1AA2AE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5128D8B-D125-4379-B721-0FADC1AA2AE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{464C0226-2405-44A9-97E6-AE26B20EB4E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{464C0226-2405-44A9-97E6-AE26B20EB4E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{464C0226-2405-44A9-97E6-AE26B20EB4E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{464C0226-2405-44A9-97E6-AE26B20EB4E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

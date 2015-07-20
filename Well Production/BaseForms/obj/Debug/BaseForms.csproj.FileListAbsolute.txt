@@ -1,0 +1,13 @@
+C:\Users\Owner\Dropbox\Vadim Deryabin\DOT_NET_Dev\CPRG253_final_project_ver2\BaseForms\bin\Debug\BaseForms.exe.config
+C:\Users\Owner\Dropbox\Vadim Deryabin\DOT_NET_Dev\CPRG253_final_project_ver2\BaseForms\bin\Debug\BaseForms.exe
+C:\Users\Owner\Dropbox\Vadim Deryabin\DOT_NET_Dev\CPRG253_final_project_ver2\BaseForms\bin\Debug\BaseForms.pdb
+C:\Users\Owner\Dropbox\Vadim Deryabin\DOT_NET_Dev\CPRG253_final_project_ver2\BaseForms\obj\Debug\BaseForms.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Dropbox\Vadim Deryabin\DOT_NET_Dev\CPRG253_final_project_ver2\BaseForms\obj\Debug\BaseForms.Properties.Resources.resources
+C:\Users\Owner\Dropbox\Vadim Deryabin\DOT_NET_Dev\CPRG253_final_project_ver2\BaseForms\obj\Debug\BaseForms.csproj.GenerateResource.Cache
+C:\Users\Owner\Dropbox\Vadim Deryabin\DOT_NET_Dev\CPRG253_final_project_ver2\BaseForms\obj\Debug\BaseForms.exe
+C:\Users\Owner\Dropbox\Vadim Deryabin\DOT_NET_Dev\CPRG253_final_project_ver2\BaseForms\obj\Debug\BaseForms.pdb
+C:\Users\Owner\Dropbox\Vadim Deryabin\DOT_NET_Dev\CPRG253_final_project_ver2\BaseForms\obj\Debug\BaseForms.Explorer.resources
+C:\Users\Owner\Dropbox\Vadim Deryabin\DOT_NET_Dev\CPRG253_final_project_ver2\BaseForms\obj\Debug\BaseForms.AddPad.resources
+C:\Users\Owner\Dropbox\Vadim Deryabin\DOT_NET_Dev\CPRG253_final_project_ver2\BaseForms\obj\Debug\BaseForms.AddWell.resources
+C:\Users\Owner\Dropbox\Vadim Deryabin\DOT_NET_Dev\CPRG253_final_project_ver2\BaseForms\obj\Debug\BaseForms.Main.resources
+C:\Users\Owner\Dropbox\Vadim Deryabin\DOT_NET_Dev\CPRG253_final_project_ver2\BaseForms\obj\Debug\BaseForms.WellProduction.resources
